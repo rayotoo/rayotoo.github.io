@@ -1,0 +1,56 @@
+name: Bioinformatics Researcher
+description: Personal website
+
+menu:
+ - page: About
+   url: /about
+ - page: Papers
+   url: /papers
+   links:
+    - title: Working papers
+      url: "#working-papers"
+    - title: Published papers
+      url: "#published-papers"
+ - page: Research Projects
+   url: /research
+   links:
+    - title: "Project One"
+      url: "#project-one"
+    - title: "Project Two"
+      url: "#project-two"
+    - title: "Project Three"
+      url: "#project-three"
+    - title: "Project Four"
+      url: "#project-four"
+ - page: Curriculum Vitae
+   url: /cv
+   links:
+    - title: Experience
+      url: "#experience"
+    - title: Education
+      url: "#education"
+    - title: Positions
+      url: "#positions"
+    - title: Miscellaneous
+      url: "#miscellaneous"
+ - page: Teaching
+   url: /teaching
+ - page: Media
+   url: /media
+ - page: Accolades
+   url: /accolades
+menu_external:
+ - title: My E-Learning Website
+   url: "https://www.bioinflearninfinite.com/"
+ - title: Research Gate
+   url: "https://www.researchgate.net/profile/Raymond-Otoo-2"
+ - title: LinkedIn
+   url: "https://www.linkedin.com/in/raymond-anan-otoo-8aa77424"
+ - title: Twitter
+   url: "https://twitter.com/rayotoo"
+  
+mathjax: false
+markdown: kramdown
+encoding: utf-8
+baseurl: rayotoo.github.io 
+locale: en_GB
