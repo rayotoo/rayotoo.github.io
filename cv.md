@@ -1,44 +1,52 @@
 ---
-title: cv
-summary: "Raymond Otoo's Resume"
-cv_title: Raymond Otoo
-cv_subtitle: Bioinformatics Programmer
-location: United States
-phone: +1(206)-822-3427
+title: CV
+summary: "Ole Vik's Resume"
+cv_title: Ole Vik
+cv_subtitle: Political Economist
+location: Bergen
+phone: 
 contact_name: OleVik.net/Contact
 contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/RaymondAnanOtoo
-linkedin_link: https://www.linkedin.com/in/raymond-anan-otoo-8aa77424
+linkedin_name: LinkedIn/OleHHVik
+linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
-  - years: June 2022- Dec 2022
+  - years: 2022-
     name: ORISE Fellow
     location: FDA|CDER
     description: Descriptive Analytics of FDA-NIH publication data.
-  - years: June 2022- August 2022
+  - years: 2022-
     name: Bioinformatics Intern
     location: Somalogic Inc.
     description: Used Natural Language Processing to aggregate gene ontology terms.
-  - years: 2020-Present
+  - years: 2020-
     name: Research Assistant
     location: The University Arkansas For Medical Science
     description: Wet Lab research and Quantitative work including data management, model estimation, and programming in Python.
   - years: 2018-2020
     name: Graduate Teachind Assistant
     location: The University of Texas at El Paso
-    description: Assited undergrads in maths, python and other bioinformatics related challenges.
+    description: Assited undergrads in maths, python and other bioinformatics related challenges. the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
+  - years: 2013, 2014, 2015
+    name: Customer Service Representative
+    location: Sixt Norway
+    description: Customer Service, logistics, preparation of rental cars.
 education:
-  - years: 2020-2024
-    name: PhD Bioinformatics
-    location: The University Arkansas at Little Rock
-    description: Research focused doctoral studies.
-  - years: 2018-2020
-    name: Master’s Degree in Bioinformatics
-    location: The University of Texas at El Paso
-    description: This was a professional science master's degree.
-  - years: 2012-2016
-    name: Bachelor's Degree in Agricultural Biotechnology
-    location: Kwame Nkrumah' University of Science and Technology, Kumasi
-    description: Research project : In Vitro regeneration of plantain, var. "Apantu".
+  - years: 2013-2015
+    name: Master’s Degree in Comparative Politics
+    location: University of Bergen
+    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
+  - years: 2010-2013
+    name: Bachelor’s Degree in Political Economy
+    location: University of Bergen
+    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
+  - years: 2009-2010
+    name: Diploma
+    location: Manger Folkehøgskule
+    description: Music Production
+  - years: 2006-2009
+    name: Diploma
+    location: Breivika Videregående Skole
+    description: Academic specialization with media
 positions:
   - years: 2013-2015
     name: Student Council for Comparative Politics
@@ -48,9 +56,9 @@ positions:
     name: Student Council for Political Economy
     location: Board Member
     description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
-misc: Ghanaian and US resident, fluent in the English Language.
+misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
 date: 2016-04-02
 layout: cv
 ---
 
-> 2020 graduate with a Master’s Degree in Bioinformatics from The University of Texas at El Paso. Currently a PhD student in The University Arkansas at Little Rock | The University Arkansas For Medical Science joint bioinformatics programme.
+> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
