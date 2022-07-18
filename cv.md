@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: cv
 summary: "Raymond Otoo's Resume"
 cv_title: Raymond Otoo
 cv_subtitle: Bioinformatics Programmer
