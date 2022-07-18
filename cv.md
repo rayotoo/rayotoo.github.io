@@ -8,7 +8,7 @@ phone:
 contact_name: https://rayotoo.github.io/
 contact_link: https://rayotoo.github.io/
 linkedin_name: LinkedIn/RaymondAnanOtoo
-linkedin_link: https://no.linkedin.com/in/olehhvik
+linkedin_link: https://www.linkedin.com/in/raymond-anan-otoo-8aa77424
 experience:
   - years: Jun 2022-August 2022
     name: ORISE Fellow
