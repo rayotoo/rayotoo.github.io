@@ -10,43 +10,31 @@ contact_link: http://olevik.net/contact
 linkedin_name: LinkedIn/OleHHVik
 linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
-  - years: 2022-
+  - years: Jun 2022-August 2022
     name: ORISE Fellow
     location: FDA|CDER
     description: Descriptive Analytics of FDA-NIH publication data.
-  - years: 2022-
+  - years: Jun 2022- August 2022
     name: Bioinformatics Intern
     location: Somalogic Inc.
     description: Used Natural Language Processing to aggregate gene ontology terms.
-  - years: 2020-
+  - years: 2020-Present
     name: Research Assistant
     location: The University Arkansas For Medical Science
     description: Wet Lab research and Quantitative work including data management, model estimation, and programming in Python.
   - years: 2018-2020
-    name: Graduate Teachind Assistant
+    name: Graduate Teaching Assistant
     location: The University of Texas at El Paso
-    description: Assited undergrads in maths, python and other bioinformatics related challenges. the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+    description: Assisted undergrads in maths, python and other bioinformatics related challenges.
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
-    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
-  - years: 2009-2010
-    name: Diploma
-    location: Manger Folkehøgskule
-    description: Music Production
-  - years: 2006-2009
-    name: Diploma
-    location: Breivika Videregående Skole
-    description: Academic specialization with media
+  - years: 2020-2024
+    name: PhD Bioinformatics
+    location: The University Arkansas at Little Rock
+    description: Research focused doctoral studies.
+  - years: 2018-2020
+    name: Master’s Degree in Bioinformatics
+    location: The University of Texas at El Paso
+    description: This was a professional science master's degree.
 positions:
   - years: 2013-2015
     name: Student Council for Comparative Politics
