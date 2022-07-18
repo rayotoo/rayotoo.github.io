@@ -35,6 +35,10 @@ education:
     name: Master’s Degree in Bioinformatics
     location: The University of Texas at El Paso
     description: This was a professional science master's degree.
+  - years: 2012-2016
+    name: Bachelor's Degree in Agricultural Biotechnology
+    location: Kwame Nkrumah' University of Science and Technology, Kumasi
+    description: In Vitro regeneration of plantain, var. "Apantu".  
 positions:
   - years: 2013-2015
     name: Student Council for Comparative Politics
@@ -45,7 +49,7 @@ positions:
     location: Board Member
     description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
 misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
-date: 2016-04-02
+date: 2022-15-07
 layout: cv
 ---
 
