@@ -1,13 +1,13 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
+summary: "Raymond Otoo's Resume"
+cv_title: Raymond Otoo
+cv_subtitle: Bioinformatics Programmer
+location: United States
 phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
+contact_name: https://rayotoo.github.io/
+contact_link: https://rayotoo.github.io/
+linkedin_name: LinkedIn/RaymondAnanOtoo
 linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: Jun 2022-August 2022
