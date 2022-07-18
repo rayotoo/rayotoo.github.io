@@ -53,4 +53,4 @@ date: 2016-04-02
 layout: cv
 ---
 
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
+> 2020 graduate with a Master’s Degree in Bioinformatics from The University of Texas at El Paso. Currently a PhD student at The University Arkansas at Little Rock | The University Arkansas For Medical Science joint bioinformatics programme.
