@@ -53,4 +53,4 @@ date: 2016-04-02
 layout: cv
 ---
 
-> 2020 graduate with a Master’s Degree in Bioinformatics from The University of Texas at El Paso. Currently a PhD student at The University Arkansas at Little Rock | The University Arkansas For Medical Science joint bioinformatics programme.
+> 2020 graduate with a Master’s Degree in Bioinformatics from The University of Texas at El Paso. Currently a PhD student in The University Arkansas at Little Rock | The University Arkansas For Medical Science joint bioinformatics programme.
