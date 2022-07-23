@@ -48,7 +48,7 @@ positions:
     name: Student Council for Political Economy
     location: Board Member
     description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
-misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
+misc: Ghanaian, fluent in Norwegian and English speech, read and write both excellently.
 date: 2022-07-15
 layout: cv
 ---
